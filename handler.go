@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	pb "github.com/jakebjorke/shipper/consignment-service/proto/consignment"
-	vesselProto "github.com/jakebjorke/shipper/vessel-service/proto/vessel"
+	pb "github.com/jakebjorke/shipper-consignment-service/proto/consignment"
+	vesselProto "github.com/jakebjorke/shipper-vessel-service/proto/vessel"
 	mgo "gopkg.in/mgo.v2"
 )
 
